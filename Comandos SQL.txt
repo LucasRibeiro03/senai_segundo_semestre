@@ -1,0 +1,105 @@
+IDENTITY----------------------------------------------------------------------------
+cria um alto incremento no dado
+
+
+PRIMARY KEY-------------------------------------------------------------------------
+Chave primaria
+VARCHAR()---------------------------------------------------------------------------
+
+para criar um campo com conteudo dentro dos parenteses 
+coloca a quantidade de caracteres
+
+NOT NULL----------------------------------------------------------------------------
+ identificar que ele não pode ser nulo
+
+UNIQUE------------------------------------------------------------------------------
+ Identificar que é unico
+
+PSales------------------------------------------------------------------------------
+ nome do sistema(banco)
+
+FOREIGN KEY-------------------------------------------------------------------------
+Identifica que é uma chave estrangeira
+
+sempre indicar a REFERENCES XXX(LINHA)
+
+UPDATE-------------------------------------------------------------------------------
+
+update tabela set qual_coluna = novo_valor
+
+exemplo 
+set nome='x'
+WHERE lugar = 'valor'
+
+SELECT-------------------------------------------------------------------------------
+
+seleciona algo a ser visualizado 
+
+Quando quiser selecionar tudo adicionar um * após o select
+
+tambem é necessario identificar de onde vem 
+
+
+INSERT INTO -------------------------------------------------------------------------
+Adiciona algum valor dentro de alguma linha
+
+
+exemplo
+
+INSERT INTO X(Y) VALUES ('Z');
+
+JOIN --------------------------------------------------------------------------------
+
+Junção de 2 itens de 2 tabelas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c       r       u       d
+
+create  read    update  delete
+insert  select  update  delete
+
+ddl--------------------------------------------
+definição
+
+alter
+drop
+
+dml-------------------------------------------
+manipulando
+
+insert 
+update
+delete
+
+dql--------------------------------------------
+query
+
+select
+
+
+
+estruturo a informação
+manipulo a informação 
+visualizo a manipulação
+
+
+
+
+
+
+
+
+
+
