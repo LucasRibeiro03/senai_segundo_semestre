@@ -1,0 +1,14 @@
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\bin\Debug\netcoreapp2.1\SENAI.Livros.WebApi.deps.json
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\bin\Debug\netcoreapp2.1\SENAI.Livros.WebApi.runtimeconfig.json
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\bin\Debug\netcoreapp2.1\SENAI.Livros.WebApi.runtimeconfig.dev.json
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\bin\Debug\netcoreapp2.1\SENAI.Livros.WebApi.dll
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.csprojAssemblyReference.cache
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.RazorAssemblyInfo.cache
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.RazorAssemblyInfo.cs
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.AssemblyInfoInputs.cache
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.AssemblyInfo.cs
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\bin\Debug\netcoreapp2.1\SENAI.Livros.WebApi.pdb
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.dll
+C:\Users\45848873810\Desktop\ExerciciosS1L\BackEndExercicios\Ex1 Sstop\Senai.Sstop.WebApi\SENAI.Livros.WebApi\SENAI.Livros.WebApi\obj\Debug\netcoreapp2.1\SENAI.Livros.WebApi.pdb
