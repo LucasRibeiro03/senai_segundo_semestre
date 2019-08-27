@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\45848873810\\Desktop\\BackEndExercicios\\Ex1 Sstop\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\45848873810\\Desktop\\ExerciciosS1L\\BackEndExercicios\\Ex1 Sstop\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
       "projectName": "Senai.Peoples.WebApi",
-      "projectPath": "C:\\Users\\45848873810\\Desktop\\BackEndExercicios\\Ex1 Sstop\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
+      "projectPath": "C:\\Users\\45848873810\\Desktop\\ExerciciosS1L\\BackEndExercicios\\Ex1 Sstop\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi.csproj",
       "packagesPath": "C:\\Users\\45848873810\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\45848873810\\Desktop\\BackEndExercicios\\Ex1 Sstop\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\45848873810\\Desktop\\ExerciciosS1L\\BackEndExercicios\\Ex1 Sstop\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\Senai.Peoples.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

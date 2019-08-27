@@ -90,7 +90,10 @@ namespace Senai.Peoples.WebApi.FuncionariosRepository
                 cmd.Parameters.AddWithValue("@Sobrenome", funcionariosDomain.SobrenomeFuncionario);
                 con.Open();
                 cmd.ExecuteNonQuery();
+
+
             }
+
         }
 
         public void Deletar(int id)

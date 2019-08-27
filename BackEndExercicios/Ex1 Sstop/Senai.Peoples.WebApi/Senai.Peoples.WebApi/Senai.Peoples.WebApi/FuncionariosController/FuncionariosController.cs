@@ -39,6 +39,8 @@ namespace Senai.Peoples.WebApi.FuncionariosController
         {
             funcionariosRepositorio.Cadastrar(funcionarioDomain);
             return Ok();
+           
+
         }
         [HttpDelete("{id}")]
         public IActionResult Deletar(int id)
