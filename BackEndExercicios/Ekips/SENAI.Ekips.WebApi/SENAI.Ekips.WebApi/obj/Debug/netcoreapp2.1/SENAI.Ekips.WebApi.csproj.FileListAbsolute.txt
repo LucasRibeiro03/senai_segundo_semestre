@@ -1,0 +1,14 @@
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\bin\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.deps.json
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\bin\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.runtimeconfig.json
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\bin\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.runtimeconfig.dev.json
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\bin\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.dll
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.csprojAssemblyReference.cache
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.RazorAssemblyInfo.cache
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.RazorAssemblyInfo.cs
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.AssemblyInfoInputs.cache
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.AssemblyInfo.cs
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\bin\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.pdb
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.dll
+C:\Users\45848873810\Desktop\Ekips\SENAI.Ekips.WebApi\SENAI.Ekips.WebApi\obj\Debug\netcoreapp2.1\SENAI.Ekips.WebApi.pdb
