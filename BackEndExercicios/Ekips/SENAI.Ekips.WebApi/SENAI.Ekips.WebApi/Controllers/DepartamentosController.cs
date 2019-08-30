@@ -43,9 +43,18 @@ namespace SENAI.Ekips.WebApi.Controllers
         }
         //atualizar
         [HttpPut]
+        public IActionResult Atualizar(Departamentos departamento)
+        {
+            DepartamentoRepository.Atualizar(departamento);
+            return Ok();
+        }
 
         //deletar
-        [HttpDelete]
-
+        [HttpDelete("{id}")]
+        public IActionResult Deletar(int id)
+        {
+            DepartamentoRepository.Deletar(id);
+            return Ok(); 
+        }
     }
 }

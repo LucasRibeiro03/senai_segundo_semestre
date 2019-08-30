@@ -49,12 +49,23 @@ CREATE TABLE Usuario(
 								(2,'Joao@gmail.com  ','123456','COMUM'),
 								(3,'Lucas@gmail.com','123456' ,'ADMINISTRADOR');
 
-								
+									
 		
 	select *from Usuario order by IdUsuario;
+
+ALTER TABLE Usuario DROP COLUMN IdUsuario;
+
+
+
+
+
+
+
+
 
 --DQL
 	select *from Usuario order by IdUsuario;
 	select *from Funcionarios order by IdFuncionario;
 	SELECT *FROM Departamentos order by IdDepartamento;
 	SELECT *FROM Cargos order by IdCargo;
+

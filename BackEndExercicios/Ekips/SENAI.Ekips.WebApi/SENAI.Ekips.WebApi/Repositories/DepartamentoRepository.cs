@@ -52,9 +52,9 @@ namespace SENAI.Ekips.WebApi.Repositories
         {
             using (EkipsContext ctx = new EkipsContext())
             {
-                Departamentos depoimento = ctx.Departamentos.Find(id);
+                Departamentos departamento = ctx.Departamentos.Find(id);
 
-                ctx.Departamentos.Remove(depoimento);
+                ctx.Departamentos.Remove(departamento);
 
                 ctx.SaveChanges();
             }

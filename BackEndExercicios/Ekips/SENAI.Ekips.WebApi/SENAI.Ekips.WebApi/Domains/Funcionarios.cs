@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Security.Claims;
 
 namespace SENAI.Ekips.WebApi.Domains
 {
@@ -13,7 +14,9 @@ namespace SENAI.Ekips.WebApi.Domains
         public DateTime DataNascimento { get; set; }
         public string Salario { get; set; }
 
+
         public Cargos IdCargoNavigation { get; set; }
         public Departamentos IdDepartamentoNavigation { get; set; }
+        public ClaimsIdentity Permissao { get; internal set; }
     }
 }
