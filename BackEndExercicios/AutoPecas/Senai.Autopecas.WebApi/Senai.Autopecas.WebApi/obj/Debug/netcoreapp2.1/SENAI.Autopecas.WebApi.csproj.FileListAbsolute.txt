@@ -1,0 +1,14 @@
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\bin\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.deps.json
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\bin\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.runtimeconfig.json
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\bin\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.runtimeconfig.dev.json
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\bin\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.dll
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.csprojAssemblyReference.cache
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.RazorAssemblyInfo.cache
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.RazorAssemblyInfo.cs
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.AssemblyInfoInputs.cache
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.AssemblyInfo.cs
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\bin\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.pdb
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.dll
+C:\Users\45848873810\source\repos\SENAI.Autopecas.WebApi\SENAI.Autopecas.WebApi\obj\Debug\netcoreapp2.1\SENAI.Autopecas.WebApi.pdb

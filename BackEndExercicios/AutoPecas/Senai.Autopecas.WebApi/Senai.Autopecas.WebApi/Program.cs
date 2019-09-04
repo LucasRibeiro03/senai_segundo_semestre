@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Senai.Autopecas.WebApi
+namespace SENAI.Autopecas.WebApi
 {
     public class Program
     {
